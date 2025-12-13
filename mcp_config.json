@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "ThaiCustomsMCP": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\User\\PycharmProjects\\PythonProject52_Thai_MCP_Server\\server.py"
+      ],
+      "env": {
+        "OPENAI_API_KEY": ""
+      }
+    }
+  }
+}
+
+

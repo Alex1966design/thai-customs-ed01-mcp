@@ -1,0 +1,7 @@
+﻿.venv/
+.venv311/
+__pycache__/
+.idea/
+.env
+*.log
+.gradio/
